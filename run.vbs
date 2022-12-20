@@ -1,0 +1,1 @@
+WScript.CreateObject("WScript.Shell").Run "java -Dsun.java2d.dpiaware=false -Dsun.java2d.uiScale=1 -Dfile.encoding=UTF-8 -classpath out\production\Main Main",0
